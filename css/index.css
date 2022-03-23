@@ -37,6 +37,23 @@ h1 {
     /*margin-right: auto;*/
 }
 
+.columns {
+    display: flex;
+}
+
+.main-content {
+    width: 65%;
+    margin-right: 5%;
+}
+
+.sidebar {
+    width: 30%;
+}
+
+.col-right {
+    margin-left: 25px;
+}
+
 
 
 
