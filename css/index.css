@@ -6,23 +6,47 @@ body {
     margin: 0px;
 }
 
-/*h1 {*/
-/*    background: #281B2D;*/
-/*    color: #fff;*/
-/*    text-align: center;*/
-/*    font-size: 72px;*/
-/*    margin-top: 0;*/
-/*    padding: 25px 0;*/
-/*}*/
-
-header {
+h1 {
     background: #281B2D;
     color: #fff;
     text-align: center;
-    padding: 20px;
+    font-size: 72px;
+    margin-top: 0;
+    padding: 25px 0;
 }
 
-h1 {
-    font-size: 72px;
-    margin: 0px;
+.subhead {
+    font-size: 48px;
+    color: #FCD801;
+    background: #281B2D;
+    /*margin: 0 700px 0 10px;*/
+    padding: 20px;
+    border-bottom: 5px solid #00C54C;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*header {*/
+/*    background: #281B2D;*/
+/*    color: #fff;*/
+/*    text-align: center;*/
+
+/*}*/
+
+/*h1 {*/
+/*    font-size: 72px;*/
+/*    margin: 0;*/
+/*    padding: 20px;*/
+/*}*/
